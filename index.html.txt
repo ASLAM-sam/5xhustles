@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>5xHustles - Secret Business Ideas eBook</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #f1f5f9;
+      text-align: center;
+      padding: 30px 15px;
+    }
+    h1 {
+      font-size: 36px;
+      color: #38bdf8;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .cta {
+      background-color: #10b981;
+      color: white;
+      padding: 14px 24px;
+      font-size: 20px;
+      border: none;
+      border-radius: 12px;
+      margin: 20px 0;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .price-tag {
+      background-color: #facc15;
+      color: #1e293b;
+      font-weight: bold;
+      display: inline-block;
+      margin: 10px 0;
+      padding: 10px 16px;
+      border-radius: 8px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>5xHustles</h1>
+  <p><strong>Your ₹49 Gateway to Secret Low-Investment Business Ideas</strong></p>
+
+  <img src="https://i.imgur.com/9j1zcdK.png" alt="eBook Cover" width="250" style="border-radius:12px; margin: 20px 0;" />
+
+  <p>Feeling stuck? Want to earn without big investment? <br>
+  This is the only guide you need to start earning with zero to low money.</p>
+
+  <div class="price-tag">Now just ₹49 Only</div>
+
+  <a class="cta" href="#">Buy Now (India Only)</a>
+
+  <p>Get instant access to 5 proven business ideas including:</p>
+  <ul style="text-align: left; display: inline-block; margin-top: 10px;">
+    <li>1. Viral WhatsApp Marketing Hustle</li>
+    <li>2. Free-to-use AI Services for Clients</li>
+    <li>3. Fiverr Reselling Method</li>
+    <li>4. Instagram Page Selling Strategy</li>
+    <li>5. Page Growth Using Movie Clips</li>
+  </ul>
+
+  <p>Even one idea can change your financial future. <br>
+  Don't miss it!</p>
+
+  <a class="cta" href="#">Get eBook Now</a>
+
+  <footer>
+    Made with hustle by Aslam | 2025 © All rights reserved.
+  </footer>
+</body>
+</html>
